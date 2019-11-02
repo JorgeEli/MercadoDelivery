@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/04 21:22:45.000.012,=C:\Users\Jorge\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/04 21:23:58.000.489,C:\Users\Jorge\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Jorge\Documents\Embarcadero\Studio\Projects\ProjetoGit\Principal.dfm</Transaction>
+    <Transaction>2019/10/04 21:23:58.000.489,C:\Users\Jorge\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Jorge\Documents\Embarcadero\Studio\Projects\ProjetoGit\Principal.pas</Transaction>
+    <Transaction>2019/10/04 21:37:33.000.343,C:\Users\Jorge\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Jorge\Documents\Embarcadero\Studio\Projects\ProjetoGit\Git.dproj</Transaction>
+    <Transaction>2019/10/28 21:18:49.000.898,=C:\Users\Jorge\Documents\Embarcadero\Studio\Projects\ProjetoGit\Unit1.pas</Transaction>
+    <Transaction>2019/10/28 21:19:26.000.675,C:\Users\Jorge\Documents\Embarcadero\Studio\Projects\ProjetoGit\DataModule.pas=C:\Users\Jorge\Documents\Embarcadero\Studio\Projects\ProjetoGit\Unit1.pas</Transaction>
+    <Transaction>2019/10/28 21:19:26.000.675,C:\Users\Jorge\Documents\Embarcadero\Studio\Projects\ProjetoGit\DataModule.dfm=C:\Users\Jorge\Documents\Embarcadero\Studio\Projects\ProjetoGit\Unit1.dfm</Transaction>
+    <Transaction>2019/10/28 22:27:33.000.426,=C:\Users\Jorge\Documents\Embarcadero\Studio\Projects\ProjetoGit\Unit1.pas</Transaction>
+    <Transaction>2019/10/28 22:28:51.000.814,C:\Users\Jorge\Documents\Embarcadero\Studio\Projects\ProjetoGit\Produtos.dfm=C:\Users\Jorge\Documents\Embarcadero\Studio\Projects\ProjetoGit\Unit1.dfm</Transaction>
+    <Transaction>2019/10/28 22:28:51.000.814,C:\Users\Jorge\Documents\Embarcadero\Studio\Projects\ProjetoGit\Produtos.pas=C:\Users\Jorge\Documents\Embarcadero\Studio\Projects\ProjetoGit\Unit1.pas</Transaction>
+    <Transaction>2019/11/01 19:57:34.860,=C:\Users\Jorge\Documents\Embarcadero\Studio\Projects\ProjetoGit\Unit1.pas</Transaction>
+    <Transaction>2019/11/01 20:04:16.082,C:\Users\Jorge\Documents\Embarcadero\Studio\Projects\ProjetoGit\Fornecedores.pas=C:\Users\Jorge\Documents\Embarcadero\Studio\Projects\ProjetoGit\Unit1.pas</Transaction>
+    <Transaction>2019/11/01 20:04:16.082,C:\Users\Jorge\Documents\Embarcadero\Studio\Projects\ProjetoGit\Fornecedores.dfm=C:\Users\Jorge\Documents\Embarcadero\Studio\Projects\ProjetoGit\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
